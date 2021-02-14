@@ -1,0 +1,30 @@
+<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Major Fields of Interest</h2>
+									</header>
+									<div class="features">
+										<article>
+											<span class="icon fa-gem"></span>
+											<div class="content">
+												<h3>Data Science</h3>
+												<p>The inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.</p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-paper-plane"></span>
+											<div class="content">
+												<h3>Machine Learning</h3>
+												<p> The study of computer algorithms that improve automatically through experience.It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.</p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-rocket"></span>
+											<div class="content">
+												<h3>Artificial Intelligance</h3>
+												<p> The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving</p>
+											</div>
+										</article>
+										
+									</div>
+								</section>
